@@ -17,3 +17,8 @@ mysql> git clone https://vidak:ATBBvsahCTnk3fsAmHybLvzpbrUUBE03F1E3@bitbucket.or
 
 >git push --set-upstream origin master
 >git pull --all
+
+>git branch 		// lista grane
+>git branch test 	// formira novu granu test
+>git checkout test	// prelazi na granu test
+>git switch			// isto kao predhodni
