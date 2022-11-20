@@ -1,0 +1,5 @@
+stepen
+faktorijel
+permutacije
+determinanta
+gcd

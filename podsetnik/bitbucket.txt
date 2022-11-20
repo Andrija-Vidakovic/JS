@@ -1,0 +1,19 @@
+JS-ATBBKYLLyHVnMwNzvJuSkCjnK5f4902EB917
+origin https://vidak:ATBBKYLLyHVnMwNzvJuSkCjnK5f4902EB917@bitbucket.org/vidak/js.git
+testCode> git clone https://vidak:ATBBBABFCW7ZSjbbugxKVt9zVpyaB6FB6A68@bitbucket.org/vidak/testcode.git
+mysql> git clone https://vidak:ATBBvsahCTnk3fsAmHybLvzpbrUUBE03F1E3@bitbucket.org/vidak/mysql.git 
+
+>git clone https://vidak@bitbucket.org/vidak/js.git
+
+>git status
+>git remote -v
+>git config --list --show-origin
+>git log
+>git log --graph --oneline --decorate --all
+>git show
+
+>git remote set-url origin https://vidak:passwd@bitbucket.org/vidak/js.git
+>git remote add <кратко_име> <url>
+
+>git push --set-upstream origin master
+>git pull --all
