@@ -1,5 +1,9 @@
+bitbucket
 JS-ATBBKYLLyHVnMwNzvJuSkCjnK5f4902EB917
 origin https://vidak:ATBBKYLLyHVnMwNzvJuSkCjnK5f4902EB917@bitbucket.org/vidak/js.git
+
+gitHub > git clone https://Andrija-Vidakovic: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@github.com/Andrija-Vidakovic/JS.git
+
 testCode> git clone https://vidak:ATBBBABFCW7ZSjbbugxKVt9zVpyaB6FB6A68@bitbucket.org/vidak/testcode.git
 mysql> git clone https://vidak:ATBBvsahCTnk3fsAmHybLvzpbrUUBE03F1E3@bitbucket.org/vidak/mysql.git 
 
