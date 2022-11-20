@@ -24,5 +24,6 @@ mysql> git clone https://vidak:ATBBvsahCTnk3fsAmHybLvzpbrUUBE03F1E3@bitbucket.or
 
 >git branch 		// lista grane
 >git branch test 	// formira novu granu test
+>git branch -d test	// brise granu
 >git checkout test	// prelazi na granu test
->git switch			// isto kao predhodni
+>git switch	test	// isto kao predhodni
